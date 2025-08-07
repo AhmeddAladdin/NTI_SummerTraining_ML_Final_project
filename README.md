@@ -19,18 +19,16 @@ NTI_SummerTraining_ML_Final_project/
 The project includes:
 - Data exploration and visualization
 - Data preprocessing using pipelines
-- Training multiple classifiers (e.g., Logistic Regression, SVM, Random Forest, etc.)
+- Training multiple classifiers (e.g., Logistic Regression, SVM, etc.)
 - Evaluation using cross-validation and test accuracy
 - Classification reports for detailed performance metrics
 
 ## 🚀 Models Used
 
 - Logistic Regression
-- K-Nearest Neighbors (KNN)
+- Naive Bayes (GaussianNB)
 - Support Vector Machine (SVM)
-- Random Forest
-- Decision Tree
-- Gradient Boosting
+
 
 ## 📦 Installation
 
