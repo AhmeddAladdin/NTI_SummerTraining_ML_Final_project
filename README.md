@@ -4,13 +4,13 @@ This is the final machine learning project for the NTI Summer Training program. 
 
 I worked on this project with an amazing team consisting of:
 
-Ziad El-Awady
+Zeyad El-Awady
 
 Rania Mohamed
 
-Eman El-Gharib
+Eman El-Ghareeb
 
-Manh El-Sharkawy
+Mena El-Sharqawy
 
 ## 📁 Project Structure
 
