@@ -2,6 +2,16 @@
 
 This is the final machine learning project for the NTI Summer Training program. It involves training and evaluating multiple classifiers on a health-related dataset to predict heart disease.
 
+I worked on this project with an amazing team consisting of:
+
+Ziad El-Awady
+
+Rania Mohamed
+
+Eman El-Gharib
+
+Manh El-Sharkawy
+
 ## 📁 Project Structure
 
 ```
